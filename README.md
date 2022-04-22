@@ -29,7 +29,11 @@ This is an interview demo app. It cannot be used in stage nor production environ
 ## Running The App
 
 - Copy the content of `.env.dist` to `.env`
-- In the project directory, you can run:
+- In the project directory, run:
+
+### `npm install`
+
+- The run:
 
 ### `npm start --reset-cache`
 
