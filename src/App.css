@@ -14,7 +14,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("/public/book_bg.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
