@@ -28,7 +28,8 @@ This is an interview demo app. It cannot be used in stage nor production environ
 
 ## Running The App
 
-In the project directory, you can run:
+- Copy the content of `.env.dist` to `.env`
+- In the project directory, you can run:
 
 ### `npm start --reset-cache`
 
