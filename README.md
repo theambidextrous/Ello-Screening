@@ -31,7 +31,7 @@ This is an interview demo app. It cannot be used in stage nor production environ
 - Copy the content of `.env.dist` to `.env`
 - In the project directory, run:
 
-### `npm install`
+### `npm install --legacy-peer-deps`
 
 - The run:
 
